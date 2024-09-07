@@ -1,0 +1,5 @@
+[config]
+tts_ids = [30000, 30001, 31000, 31001, 31002, 31003, 31004, 31005]
+tts_names = ["basis/dog_woof_7.opus", "basis/dog_woof_100.opus", "tracking/follow_tags_start.opus", "tracking/follow_person_start.opus", "tracking/follow_object_start.opus", "tracking/follow_tags_stop.opus", "tracking/follow_person_stop.opus", "tracking/follow_object_stop.opus"]
+music_ids = [60000, 60001, 60002]
+music_names = ["music/barns_courtney.opus", "music/barns_courtney_2.opus", "music/thats_what.opus"]
